@@ -1,0 +1,15 @@
+# Real datasets (never commit)
+*prize*.json
+*Prize*.json
+data/masked*.json
+data/full*.json
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+
+# Vercel / misc
+.vercel
+.DS_Store
